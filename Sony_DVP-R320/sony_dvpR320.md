@@ -1,7 +1,7 @@
 # Sony DVP R320
 The USB port for this device doesn't support all formats, so here is how to make video work on it
 
-**XMedia Recode**(Free Software) was used to convert the videos to a supported format.
+[XMedia Recode](https://www.xmedia-recode.de/en/download.html) (Free Software) was used to convert the videos to a supported format.
 
 ## Settings
 This setup was tested
